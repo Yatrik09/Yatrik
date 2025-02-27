@@ -36,6 +36,7 @@ function Navbar() {
                   Contact
                 </Link>
               </li>
+             
               <li className="nav-item">
                 <Link className="nav-link" to="/form">
                   Form
